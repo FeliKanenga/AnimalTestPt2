@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="AnimalTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-02-11T08:50:35" hostname="umuzi-admin" time="0.009">
+<testsuite name="AnimalTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-02-13T09:12:22" hostname="umuzi-admin" time="0.011">
   <properties/>
-  <testcase name="TestDogEats" classname="AnimalTest" time="0.005"/>
-  <testcase name="TestCatSound" classname="AnimalTest" time="0.001"/>
+  <testcase name="TestDogEats" classname="AnimalTest" time="0.008"/>
+  <testcase name="TestCatSound" classname="AnimalTest" time="0.0"/>
   <testcase name="TestDogSound" classname="AnimalTest" time="0.0"/>
-  <testcase name="TestCatEats" classname="AnimalTest" time="0.002"/>
-  <system-out><![CDATA[Rax eats
-
+  <testcase name="TestCatEats" classname="AnimalTest" time="0.001"/>
+  <system-out><![CDATA[null eats
 Cat meows
 Dog barks
-Storm eats
-
+null eats
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
